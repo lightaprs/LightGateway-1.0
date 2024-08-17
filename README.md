@@ -30,13 +30,13 @@ LightGateway will be available on [https://shop.qrp-labs.com/aprs/](https://shop
 - **Ram** : 512 kB SRAM
 - **Operating Frequency** : 240 Mhz (Max)
 - **Operating Voltage** : 3.3 Volt
-- **Input Voltage** : 3.3 (min) - 5.5 (max) Volt via USB Type C 2.0
+- **Input Voltage** : 5 Volt via USB Type-C 2.0
 - **Power Consumption (Idle)** : ~65 mA
 - **LoRa Radio Module** : [EBYTE E22-400M22S](https://www.cdebyte.com/products/E22-400M22S) (SX1268)
 - **LoRa Operating Frequency** : 410~493MHz (configurable by code)
 - **LoRa Max Power** : 22dBm (configurable by code)
 - **LoRa Power Consumption (TX)** : ~110 mA (22dBm)
-- **Extended Pins** : I2C, I2S (in gpio pins, you can select random pins to use for I2S ), SPI, UART, 14x GPIO Pin(includes SPI, Analog pins, Touch pins), 4x Analog, 3x TOUCH, 2x CLK_OUT (in uart0 pins)
+- **Extended Pins** : I2C, I2S (in gpio pins, you can select random pins to use for I2S ), SPI,  10x GPIO Pin (includes SPI pins, 5x Analog pins, 4x Touch pins). Also I2C pins have Analog and Touch features.
 
 ## Support
 
