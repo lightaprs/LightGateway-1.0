@@ -15,7 +15,7 @@ LightGateway is available on https://shop.qrp-labs.com/aprs/LightGateway1 for or
 - SX1268 (22 dBm) LoRa Radio Module
 - 2 dBi 433 MHz SMA Antenna (included) 
 - Suitable for Open Source HAM Radio ESP32 projects like Meshtastic, TinyGS, LoRa APRS iGate & Digipeater, etc
-- Shipped with preloaded basic [LoRa APRS Software](https://github.com/lightaprs/LightLoRaAPRS/)(iGate or Digipeater)
+- Shipped with preloaded basic [LoRa APRS Software](https://github.com/lightaprs/LightLoRaAPRS/)(iGate or Digipeater) and supported by [Ricardo Guzman's LoRa APRS iGate Software](https://github.com/richonguzman/LoRa_APRS_iGate) You can use Web Flasher to install it -> [https://richonguzman.github.io/lora-tracker-web-flasher/installer.html](https://richonguzman.github.io/lora-igate-web-flasher/installer.html)
 - Compatible with 0.96 inch OLED Screen (VCC,GND,SCL,SDA) support (OLED screen not included)
 
 <img src="images/light_gateway_v_1_0_with_antenna.jpg" width="600">
