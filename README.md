@@ -6,6 +6,8 @@ LightGateway is an ESP32-based development board featuring a SX1268 (433MHz) LoR
 
 LightGateway is available on https://shop.qrp-labs.com/aprs/LightGateway1 for order.
 
+If you need a Solar powered module, check out : https://github.com/lightaprs/LightGatewayPlus-1.0
+
 **Important :** LightGateway 1.0 operates on the amateur 70 cm (UHF) radio band with a 22 dBm output power, which typically requires an amateur radio license to operate in many countries. Therefore, if you are not a licensed HAM operator, please ensure to check local regulations and laws before purchasing the module.
 
 <img src="images/light_gateway_v_1_0_front.jpg" width="600">
